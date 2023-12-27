@@ -1,0 +1,8 @@
+sl          [/data/Slicer/Slicer]
+                sl /path/to/data
+sw          [sudo swapoff -a;sudo swapon -a]
+                sw
+cuda        [watch -n1 nvidia-smi]
+                cuda
+tb          [tensorboard]
+                tb /path/to/logdir

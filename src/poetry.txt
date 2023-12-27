@@ -1,0 +1,2 @@
+ps         [poetry shell]
+plis        [poetry lock install shell]

@@ -7,3 +7,5 @@ source $path/src/aliases.sh
 source $path/src/cp.sh
 source $path/src/zip.sh
 source $path/src/mkdir.sh
+source $path/src/custom.sh
+source $path/src/poetry.sh

@@ -5,3 +5,5 @@ django
 cp
 zip
 mkdir
+custom
+poetry
